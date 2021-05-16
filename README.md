@@ -1,5 +1,5 @@
-# Breast-Cancer-Diagnostic-EDA
-## Exploratory Data Analysis with Seaborn Using Breast Cancer Wisconsin (Diagnostic) Dataset - project-based from Coursera (https://www.coursera.org/learn/exploratory-data-analysis-seaborn/home/welcome)
+## Breast-Cancer-Diagnostic-EDA
+### Exploratory Data Analysis with Seaborn Using Breast Cancer Wisconsin (Diagnostic) Dataset - project-based from Coursera (https://www.coursera.org/learn/exploratory-data-analysis-seaborn/home/welcome)
 
 Employ the statistical data visualization library, Seaborn, to discover and explore the relationships in the Breast Cancer Wisconsin (Diagnostic) Data Set. 
 
